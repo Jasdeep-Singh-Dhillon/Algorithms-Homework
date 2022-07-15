@@ -1,0 +1,10 @@
+7
+8
+insert 100
+insert 16
+insert 37
+delete 16
+displayStatus 3
+insert 72
+displayStatus 2
+displayStatus 3
